@@ -1,2 +1,2 @@
 # SENG-A1
-Assignment 1
+Tutorial 1 - Github tutorial time!
